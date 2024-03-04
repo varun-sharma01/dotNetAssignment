@@ -1,0 +1,14 @@
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/bin/Debug/net8.0/Stopwatch
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/media/knoldus/HDD/dotnetAssignment/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
